@@ -1,4 +1,5 @@
 <?php
+echo "Start";
   $dbHost="b0aptaymbxauak16hmrq-mysql.services.clever-cloud.com";
   $dbuser="ufdqwkv6egzbgmzk";
   $dbpass="aFRWF2otlXY6IrlurWfY";
