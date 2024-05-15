@@ -1,8 +1,8 @@
 <?php
-  $dbHost="localhost";
-  $dbuser="root";
-  $dbpass="";
-  $dbname="faceindia";
+  $dbHost="b0aptaymbxauak16hmrq-mysql.services.clever-cloud.com";
+  $dbuser="ufdqwkv6egzbgmzk";
+  $dbpass="aFRWF2otlXY6IrlurWfY";
+  $dbname="b0aptaymbxauak16hmrq";
   $mysqli=new mysqli($dbHost,$dbuser,$dbpass,$dbname);
 
   if($mysqli->connect_errno){
